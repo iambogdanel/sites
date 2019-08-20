@@ -1,0 +1,188 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+
+   
+
+    <style>
+       h1{
+           color:salmon;
+           font-family: 'Lobster', cursive;
+           font-size: 80px;
+           text-align: center;
+           
+           
+       }
+        h2{
+            color:sandybrown;
+            font-size: 40px;
+            font-family:'Beth Ellen', cursive;
+            text-align: center;
+        }
+        
+
+        .background-color{
+            background-color: aqua;
+            text-align: center;
+        }
+        
+        .content-of-page{
+            text-align: center;
+            background-color: antiquewhite;
+            color: rgb(131, 80, 14);
+            font-size: 18px;
+            padding-left: 25y0px;
+            
+        }
+
+        h3{
+            font-size: 30px;
+            color: aliceblue;
+
+        }
+         
+        p{
+            font-size: 25px;
+            color: red;  
+        }
+        
+        header{
+            font-size: 50px;
+        }
+        
+        .header_image{
+            height: 100px;
+            width: 200px;
+        }
+        .navi_p{
+            font-style: italic;
+        }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            width: 200px;
+            background-color: #f1f1f1;
+            height: 100%; 
+            position: fixed; 
+            overflow: auto;
+        }
+
+        li a {
+            display: block;
+            color: #000;
+            padding: 8px 16px;
+            text-decoration: none;
+        }
+
+
+        li a:hover {
+            background-color: #555;
+            color: white;
+        }
+
+        .navigation{
+            float: left;
+            height: 100%; 
+            position: fixed; 
+            overflow: auto;
+            width: 200px;
+        }
+        
+
+        
+
+      </style>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title> Technical_documentation_page </title>
+
+</head>
+
+<div class="navigation">
+    <img  class="header_image" src="https://i3.cpcache.com/product/647711545/wag_the_dog_black_euro_oval_car_magnet.jpg?side=Front&color=White&height=460&width=460&qv=90"
+    alt="Company logo is displayed there!">
+
+    <nav class="navi_p">
+        <ul>
+          <li><a href="#wolksvagen">Wolkswagen</a></li>
+          <li><a href="#audi">Audi</a></li>
+          <li><a href="#skoda">Skoda</a></li>
+          <li><a href="#seat">Seat</a></li>
+          <li><a href="#porsche">Porsche</a></li>
+        </ul>
+      </nav>
+</div>
+
+<main class="content-of-page">
+
+    <section id="volkswagen">
+
+        <header> Volkswagen </header>
+        <p>
+            Volkswagen, shortened to VW , is a German automaker founded on 28 May 1937 by the German Labour Front, a Nazi labour union, and headquartered in Wolfsburg. It is the flagship marque of the Volkswagen Group, the largest automaker by worldwide sales in 2016 and 2017. The group's biggest market is in China, which delivers 40% of its sales and profits.
+        </p>
+        <p>
+            Volkswagen translates to "people's car" in German. The company's current international advertising slogan is just "Volkswagen", referencing the name's meaning.
+        </p>
+
+
+
+    </section>
+
+    <section id="audi">
+
+        <header> Audi </header>
+        <p>
+            Audi AG is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles. Audi is a member of the Volkswagen Group and has its roots at Ingolstadt, Bavaria, Germany. Audi-branded vehicles are produced in nine production facilities worldwide.
+        </p>
+        <p>
+            The origins of the company are complex, going back to the early 20th century and the initial enterprises (Horch and the Audiwerke) founded by engineer August Horch; and two other manufacturers (DKW and Wanderer), leading to the foundation of Auto Union in 1932. The modern era of Audi essentially began in the 1960s when Auto Union was acquired by Volkswagen from Daimler-Benz. After relaunching the Audi brand with the 1965 introduction of the Audi F103 series, Volkswagen merged Auto Union with NSU Motorenwerke in 1969, thus creating the present day form of the company. 
+The company name is based on the Latin translation of the surname of the founder, August Horch. "Horch", meaning "listen" in German, becomes "audi" in Latin. The four rings of the Audi logo each represent one of four car companies that banded together to create Audi's predecessor company, Auto Union. Audi's slogan is Vorsprung durch Technik, meaning "Being Ahead through Technology". However, Audi USA had used the slogan "Truth in Engineering" from 2007 to 2016, and have not used the slogan since 2016. Audi, along with fellow German marques BMW and Mercedes-Benz, is among the best-selling luxury automobile brands in the world
+        </p>
+            
+    </section>
+
+    <section id="skoda">
+
+        <header> Skoda </header>
+        <p>
+            ŠKODA AUTO, more commonly known as Škoda, is a Czech automobile manufacturer founded in 1895 as Laurin & Klement. Its headquarters are in Mladá Boleslav, Czech Republic. 
+In 1925 Laurin & Klement was acquired by the industrial conglomerate Škoda Works, which itself became state owned in 1948. After 1991 it was gradually privatized and in 2000 Škoda became a wholly owned subsidiary of the Volkswagen Group.
+        </p>
+        <p>
+            Škoda automobiles are sold in over 100 countries and in 2018, total global sales reached 1.25 million units, an increase of 4.4% from the previous year. The operating profit was €1.6 billion in 2017, an increase of 34.6% over the previous year. As of 2017, Škoda's profit margin was the second highest of all VW Group brands after Porsche.
+        </p>
+
+    </section>
+
+    <section id="seat">
+
+        <header> Seat </header>
+        <p>
+            SEAT, S.A. (Sociedad Española de Automóviles de Turismo) is a Spanish automobile manufacturer with its head office in Martorell, Spain. It was founded on May 9, 1950, by the Instituto Nacional de Industria (INI), a Spanish state-owned industrial holding company. It quickly became the largest supplier of cars in Spain. In 1986, the Spanish government sold SEAT to the German Volkswagen Group of which it remains a wholly owned subsidiary. 
+        </p>
+        <p>
+            The headquarters of SEAT, S.A. are located at SEAT's industrial complex in Martorell near Barcelona. By 2000, annual production peaked at over 500,000 units; in total up to 2006, over 16 million cars have been produced, including more than 6 million from the Martorell plant  with three-quarters of the annual production being exported to over 70 countries worldwide. SEAT today is the only major Spanish car manufacturer with the ability and infrastructure to develop its own cars in-house. 
+        </p>
+
+    </section>
+
+    <section id="porsche">
+
+        <header> Porsche </header>
+        <p>
+            Dr.-Ing. h.c. F. Porsche AG, usually shortened to Porsche AG, is a German automobile manufacturer specializing in high-performance sports cars, SUVs and sedans. Porsche AG is headquartered in Stuttgart, and is owned by Volkswagen AG, which is itself majority-owned by Porsche Automobil Holding SE. Porsche's current lineup includes the 718 Boxster/Cayman, 911, Panamera, Macan and Cayenne. 
+        </p>
+        <p>
+            Ferdinand Porsche founded the company called "Dr. Ing. h. c. F. Porsche GmbH" in 1931, with main offices at Kronenstraße 24 in the centre of Stuttgart. Initially, the company offered motor vehicle development work and consulting, but did not build any cars under its own name. One of the first assignments the new company received was from the German government to design a car for the people, that is a "Volkswagen". This resulted in the Volkswagen Beetle, one of the most successful car designs of all time. The Porsche 64 was developed in 1939 using many components from the Beetle.
+        </p>
+
+
+    </section>
+
+
+</main>
+
+</html>
